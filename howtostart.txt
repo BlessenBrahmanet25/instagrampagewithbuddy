@@ -1,0 +1,28 @@
+/* 
+
+1. HTML
+
+First create a page named login.html(login page) and index.html(home page)
+and press ! ( shift + 1) for the html things to display in the file
+
+2. CSS
+
+Start another 2 file for html like login.css and index.css or you can do both css in the same file
+
+3. CONNECTING CSS WITH HTML
+
+connecting can be done with link tag in html (between <head></head> script)
+
+<link rel="stylesheet" href="nameofcssfile.css">
+
+4. JS (javascript)
+
+start 2 js file ("Chuma thodangiko pinne avisyhyam verum") with login.js and home.js or one js file is also enough for both 
+
+5. CONNECTING JS WITH HTML
+
+connecting can be done with script tag in html ( between <body></body> tag etthavum bottom ilu idane body tag inte top ilu idallu)
+
+<script src='filename.js'></script
+
+*/
